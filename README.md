@@ -1,2 +1,3 @@
-## Hundir_la_Flota
+### Hundir_la_Flota
 Creado con Python Versión 3.10
+# `Funcionalidad 1`:
