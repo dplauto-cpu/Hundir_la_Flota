@@ -1,2 +1,2 @@
 # Hundir_la_Flota
-Juego petardo y aburrido
+Versión 3.10
